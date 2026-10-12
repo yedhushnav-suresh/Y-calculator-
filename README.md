@@ -142,9 +142,8 @@ Potential improvements for future versions:
 
 Visit the repository's **Releases** section to find published APKs:
 
-`https://github.com/YOUR-USERNAME/Y-Calculator/releases`
+`https://github.com/yedhushnav-suresh/Y-calculator`
 
-Replace `YOUR-USERNAME` with your GitHub username and publish a release before sharing this link.
 
 ## 🤝 Contributing
 
