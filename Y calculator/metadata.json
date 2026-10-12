@@ -1,0 +1,6 @@
+{
+  "name": "Y Calculator",
+  "description": "Minimal, high-performance scientific calculator with two-line LCD display and offline computation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
